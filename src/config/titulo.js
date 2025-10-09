@@ -1,1 +1,2 @@
-module.exports = 'Ecored Base PKG'
+module.exports =
+  'Evaluación de impactos ambientales en los procesos productivos avícolas.'
