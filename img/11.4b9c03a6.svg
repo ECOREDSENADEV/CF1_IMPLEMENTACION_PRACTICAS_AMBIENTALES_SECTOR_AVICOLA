@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="129.063" height="64" viewBox="0 0 129.063 64">
+  <g id="Grupo_1200456" data-name="Grupo 1200456" transform="translate(-788.051 -4664)">
+    <g id="Grupo_1200326" data-name="Grupo 1200326" transform="translate(-7.73 2660.928)">
+      <g id="Rectángulo_410589" data-name="Rectángulo 410589" transform="translate(795.781 2013.422)" fill="#ffe9b5" stroke="#dfab32" stroke-width="1">
+        <rect width="129.063" height="43.021" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="128.063" height="42.021" rx="7.5" fill="none"/>
+      </g>
+    </g>
+    <g id="holidays" transform="translate(820.551 4664)">
+      <path id="Trazado_1241380" data-name="Trazado 1241380" d="M53.5,41.5a21.5,21.5,0,0,1-43,0C10.5,29.6,20.1,1,32,1S53.5,29.6,53.5,41.5Z" fill="#fecb4d"/>
+      <path id="Trazado_1241381" data-name="Trazado 1241381" d="M42.2,7.9a9.2,9.2,0,0,0-4.9-1.6c-11.9,0-21.5,28.6-21.5,40.5a20.941,20.941,0,0,0,3.9,12.3,21.377,21.377,0,0,1-9.2-17.7C10.5,29.6,20.1,1,32,1c3.7,0,7.2,2.8,10.2,6.9Z" fill="#f8b824"/>
+      <path id="Trazado_1241382" data-name="Trazado 1241382" d="M53.5,41.5a21.5,21.5,0,0,1-43,0C10.5,29.6,20.1,1,32,1S53.5,29.6,53.5,41.5Z" fill="none" stroke="#2b3c65" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Trazado_1241383" data-name="Trazado 1241383" d="M48.5,41.5A16.516,16.516,0,0,1,32,58" fill="none" stroke="#2b3c65" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Trazado_1241384" data-name="Trazado 1241384" d="M31.6,16.1a3.757,3.757,0,0,0-3.7,3.7,3.691,3.691,0,0,0-3.7-3.7,3.691,3.691,0,0,0,3.7-3.7,3.757,3.757,0,0,0,3.7,3.7Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>
